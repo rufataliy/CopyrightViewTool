@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rufataliyevbakou@gmail.com"]
 
   spec.summary       = %q{Different view based methods for my app}
-  spec.description   = %q{Provides hhttps://github.com/rufataliy/devCampViewTooltml template for my app.}
+  spec.description   = %q{Provides https://github.com/rufataliy/CopyrightViewTool template for my app.}
   spec.homepage      = "https://github.com/rufataliy/CopyrightViewTool"
  
  
